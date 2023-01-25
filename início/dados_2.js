@@ -13,4 +13,4 @@ console.log("Produto: " + nome
     + ", Desconto:" + desconto);
 
     console.log(1+1); // Realiza a operação
-    console.log("1" +1); // Junta dos símbolos
+    console.log("1" +1); // Junta os símbolos
